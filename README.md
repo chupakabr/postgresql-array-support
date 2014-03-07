@@ -59,3 +59,4 @@ Links
 ---
 - [Code on GitHub](https://github.com/chupakabr/postgresql-array-support)
 - [7bit](http://7bit.co)
+
